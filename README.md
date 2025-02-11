@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash.</h1>
-<h3 align="center">A Linux enthusiast (also a B. Tech Fresher)</h3>
+<h3 align="center">A programmer+Linux enthusiast </h3>
 
 
 
-- 🌱 I’m currently learning **Cybersecurity Tools and Frontend Dev.**
+- 🌱 I’m currently learning **Cybersecurity Tools and C++.**
 
 
 <h3 align="left">Languages and Tools:</h3>
