@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Cybersecurity Tools and C++.**
+- 🌱 I’m currently studying **Data Structures, Algorithms and Linux Development.**
 
 
 <h3 align="left">Languages and Tools:</h3>
