@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash.</h1>
-<h3 align="center"> A programmer+ open source enthusiast </h3>
+<h3 align="center"> A programmer + open source enthusiast </h3>
 
 
 
