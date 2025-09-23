@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash.</h1>
-<h3 align="center">A programmer+Linux enthusiast </h3>
+<h3 align="center"> A programmer+ open source enthusiast </h3>
 
 
 
-- 🌱 I’m currently studying **Data Structures, Algorithms and Linux Development.**
+- 🌱 I’m currently studying **Data Structures, Algorithms and Kotlin Development**
 
 
 <h3 align="left">Languages and Tools:</h3>
