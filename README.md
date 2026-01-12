@@ -1,17 +1,11 @@
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=sysadmin@github:~$+./show_stats.sh;Loading+modules:+DSA,+Cybersecurity,+Linux...;Access+Granted." alt="Typing SVG" />
-  </a>
-</div>
--->
 <div align="center">
-  <img src="https://github.com/SparkleYR/SparkleYR/blob/output/github-contribution-grid-snake.svg" alt="broken" />
+  <img src="https://raw.githubusercontent.com/SparkleYR/SparkleYR/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>Tech Stack</h3>
+  <h3>Stack</h3>
   
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -37,16 +31,16 @@
   <h3>Metrics</h3>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SparkleYR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SparkleYR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SparkleYR&theme=radical&hide_border=true&background=0D1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparkleYR&theme=radical&hide_border=true&background=0D1117" />
   </a>
   
   <br /><br />
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkleYR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkleYR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
   </a>
 </div>
 
