@@ -29,7 +29,6 @@
   <br />
   
   <img src="https://img.shields.io/badge/Cybersecurity-Security-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-Capture%20The%20Flag-critical?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
 
 <br />
