@@ -29,18 +29,10 @@
 
 <div align="center">
   <h3>Metrics</h3>
-
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparkleYR&theme=radical&hide_border=true&background=0D1117" />
   </a>
-  
-  <br /><br />
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkleYR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
-  </a>
 </div>
-
 <div align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=20&section=footer" />
