@@ -29,10 +29,7 @@
 
 <div align="center">
   <h3>Metrics</h3>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SparkleYR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
+
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparkleYR&theme=radical&hide_border=true&background=0D1117" />
   </a>
