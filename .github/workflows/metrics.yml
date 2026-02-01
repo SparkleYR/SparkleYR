@@ -15,6 +15,10 @@ jobs:
           filename: github-metrics.svg
           user: SparkleYR
           template: classic
-          base: header, repositories
           config_timezone: Asia/Kolkata
           config_theme: dark
+          base: header, repositories
+          plugin_streak: yes
+          plugin_streak_mode: weekly
+          extras_css: |
+            h1 { display: none !important; }
