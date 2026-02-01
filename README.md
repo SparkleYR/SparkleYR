@@ -5,5 +5,5 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,js,react,postgres,mongo,linux" />
   <br/><br/>
-  <img src="github-metrics.svg" alt="where are the stats?" />
+  <img src="github-metrics.svg?v=1" alt="where are the stats?" />
 </div>
