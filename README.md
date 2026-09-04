@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=r,cpp,java,kotlin,py,js,react,postgres,mongo,linux" />
-  <br/><br/>
-  <img src="github-metrics.svg?v=1" alt="where are the stats?" />
+  <img src="https://skillicons.dev/icons?i=r,cpp,kotlin,py,js,ts,react,postgres,mongo,linux,docker,git" />
+
 </div>
